@@ -1,5 +1,6 @@
 # Parallel-Word-Counter
 🚀 Parallel Word Counter
+
 عد الكلمات في ملفات نصية باستخدام Java Multi-threading
 
 📌 نظرة عامة
